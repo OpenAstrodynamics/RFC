@@ -1,7 +1,7 @@
 # Design Document GUI Project
 
-**Authors:** [helgee](https://github.com/helgee)
-**State:** draft
+* **Authors:** [helgee](https://github.com/helgee)
+* **State:** draft
 
 ## Goals
 
